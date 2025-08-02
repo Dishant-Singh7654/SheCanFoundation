@@ -14,16 +14,13 @@ This project is developed as part of an internship assessment.
 ## 📸 Screenshots
 
 ### 🔐 Login/Signup Page
-![Login Screenshot](<img width="1899" height="917" alt="image" src="https://github.com/user-attachments/assets/f6fb9f94-bf9b-4745-b36f-0d47543ff00a" />
-)
+![Login Screenshot](https://ik.imagekit.io/ppkncsip3/Screenshot%202025-08-02%20165351.png)
 
 ### 📊 Dashboard
-![Dashboard Screenshot](<img width="1884" height="907" alt="image" src="https://github.com/user-attachments/assets/a846eff8-0a01-4715-bcf0-b9493be747f3" />
-)
+![Dashboard Screenshot](https://ik.imagekit.io/ppkncsip3/Screenshot%202025-08-02%20165458.png?updatedAt=1754134414508)
 
 ### 🏆 Leaderboard (Bonus)
-![Leaderboard Screenshot](<img width="1886" height="911" alt="image" src="https://github.com/user-attachments/assets/0fce29b7-15b1-4ad2-9062-341c5971dfdc" />
-)
+![Leaderboard Screenshot](https://ik.imagekit.io/ppkncsip3/Screenshot%202025-08-02%20165531.png?updatedAt=1754134414466)
 
 ---
 
@@ -52,15 +49,3 @@ This project is developed as part of an internship assessment.
   - Total Donations Raised (from backend API)
   - Rewards/Unlockables (static display)
 - **Bonus**: Leaderboard Page (static/dummy data)
-
----
-
-## 🗂️ Folder Structure
-
-```bash
-/
-├── client/               # React frontend
-├── server/               # Node.js + Express backend
-├── firebase/             # Firebase config / data (if used)
-├── screenshots/          # UI screenshots (for README)
-├── README.md
